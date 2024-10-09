@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestRegressor
 import matplotlib.pyplot as plt
 
 # Title of the app
-st.title('Copper Price Forecasting with Variance')
+st.title('Copper Price Forecasting with Variance (RandomForestRegressor)')
 
 # Sample data (you can replace this with actual data)
 data = {
